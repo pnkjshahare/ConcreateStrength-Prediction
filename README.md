@@ -1,2 +1,2 @@
 # ConcreateStrength-Prediction
-Concrete strength prediction using various REgression model
+Concrete strength prediction using various Regression model
